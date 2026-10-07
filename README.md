@@ -13,13 +13,6 @@
 
 <!-- SYSTEM ARCHITECTURE ANIMATION -->
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuel-juma&bg_color=0d1117&color=58a6ff&line=2f81f7&point=ffffff&area=true&hide_border=true"
-    width="95%"
-    alt="Engineering activity graph"
-  />
-</p>
 
 <br>
 
